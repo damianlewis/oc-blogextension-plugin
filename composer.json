@@ -1,0 +1,16 @@
+{
+    "name": "damianlewis/oc-blogextension-plugin",
+    "description": "Extends the functionality of the RainLab.Blog plugin",
+    "type": "october-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damian Lewis",
+            "email": "damian@damianlewis.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0"
+    }
+}
